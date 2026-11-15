@@ -1,8 +1,3 @@
-  <style>
-    body {
-      font-family: Verdana, sans-serif;
-    }
-  </style>
 <h1 align="center"> ⋆ ˚｡⋆୨୧˚ chloe chaiyakul . ݁₊ ⊹ . ݁˖ . ݁ </h1>
 <br>
 <br>
